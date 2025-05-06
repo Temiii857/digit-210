@@ -1,0 +1,8 @@
+play (NN) - 17 synsets
+run (VB) - 41 synsets
+light (NN) - 15 synsets
+work (NN) - 7 synsets
+draw (NN) - 9 synsets
+right (NN) - 8 synsets
+game (NN) - 11 synsets
+break (NN) - 16 synsets
